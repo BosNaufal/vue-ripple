@@ -1,6 +1,6 @@
 {
   "name": "vue-ripple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue Component to Make Google Material Design Ripple Effect",
   "main": "./src/js/components/index.js",
   "scripts": {
