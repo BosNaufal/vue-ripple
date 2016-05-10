@@ -25,7 +25,6 @@ Usage With Predefined Ripple Button
 
 <script>
 
-  require('../../sass/main.sass');
   import { rippleButton } from './index.js';
 
   export default {

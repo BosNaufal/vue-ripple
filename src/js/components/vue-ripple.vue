@@ -18,6 +18,8 @@ div(
   */
 
 
+  require('../../sass/_Ripple.sass');
+
   export default {
 
     props: {
