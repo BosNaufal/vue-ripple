@@ -25,7 +25,7 @@ export default {
   props: {
     cursorPos: {
       type: Object,
-      default: function () {
+      default: () => {
         return {
           top: 0,
           left: 0
